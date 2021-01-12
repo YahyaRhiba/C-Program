@@ -1,7 +1,7 @@
 #include<conio.h>
 #include<stdio.h>
 main()
-{ 
+{  
  int n,i,j;
  printf("Nombres de lignes :  ");
  scanf("%d",&n);
