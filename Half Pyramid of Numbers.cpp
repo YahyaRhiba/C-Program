@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<conio.h> 
+#include<conio.h>  
 main() {
    int i, j, line;
    printf("Enter the number of line: ");
