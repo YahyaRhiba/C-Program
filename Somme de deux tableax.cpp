@@ -32,7 +32,7 @@ int main()
 	for(i=0;i<n;i++){
 		s[i] = t1[i] + t2[i];
 	}
-	printf("\n");
+	printf("\n"); 
 	printf("\t\t\tEt la somme de ses deux Tableux est :  \n");
 	for(i=0;i<n;i++){
 		printf("| %d ",s[i]);
